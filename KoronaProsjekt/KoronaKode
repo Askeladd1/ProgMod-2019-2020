@@ -12,7 +12,7 @@ Smittede = list(fil[:, 1])
 Dødstall = list(fil[:, 2])
 
 
-#Oppgave 4
+#Oppgave 2
 '''
 pyl.plot(DagerSidenPN, Smittede, color='darkorchid')
 pyl.title('Norge Corona Utvikling - Smittede')
